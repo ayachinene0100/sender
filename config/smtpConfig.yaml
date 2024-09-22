@@ -1,0 +1,8 @@
+# SMTP服务器地址
+smtpHost: "smtp.qq.com"  
+# SMTP服务器端口
+smtpPort: 587  
+# SMTP用户名（发件人邮箱）
+smtpUser: "123456789@qq.com"  
+# SMTP密码（授权码）
+smtpPassword: "aaccddeeffgghh" 
